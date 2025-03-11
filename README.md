@@ -1,7 +1,7 @@
 # Google-Project-Charter-Sauce-and-Spoon-Case-Study
 ### This project aims to deploy self-service tabletop menu tablets at all Sauce & Spoon outlets to reduce customer waiting time and increase revenue.
 <p align="center">
-<img width="519" alt="cover" src="https://github.com/Sewmi-Wijayawickrema/Cyclistic-bike-share-analysis-case-study/blob/main/img_sql/cover.webp">
+<img width="519" alt="cover" src="[https://github.com/Sewmi-Wijayawickrema/Google-Project-Charter-Sauce-and-Spoon/blob/main/PNG.png]">
 </p>
 
 # Project Charter: [Menu Tablet Project]
