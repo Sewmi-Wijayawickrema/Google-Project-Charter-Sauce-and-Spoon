@@ -4,9 +4,9 @@
 <img width="519" alt="cover" src="PNG.png">
 </p>
 
-# Project Charter: [Menu Tablet Project]
+# Project Charter: Menu Tablet Project
 ## Project Summary
-### In order to cut down on customer wait times and boost sales, this initiative intends to install self-service tabletop menu tablets at every Sauce & Spoon location.
+##### In order to cut down on customer wait times and boost sales, this initiative intends to install self-service tabletop menu tablets at every Sauce & Spoon location.
 
 ## Project Goals
 <p>•	Implement a tabletop menu tablet pilot program at two dining establishments.  </p>
@@ -41,9 +41,9 @@
 <p>•	Provide staff training  </p>
 
 ### Out-Of-Scope:
-<p>•	suggestion to include return policies in the launch </p>
-<p>•	suggestion to increase kitchen staff satisfaction  </p>
-<p>•	reallocation of salary </p>
+<p>•	Suggestion to include return policies in the launch </p>
+<p>•	Suggestion to increase kitchen staff satisfaction  </p>
+<p>•	Reallocation of salary </p>
 
 
 ## Benefits
@@ -57,10 +57,10 @@
 <p>	●	Upkeep (IT charges via EOY) --------------------> $ 5000</p>
 <p>	●	New menu and website design charge --------------------> $ 5000</p>
 <p>	●	Additional expenses for customisation --------------------> $ 500   </p>
-<p> ●	IN TOTAL The following: ------------------------------------------------------> $ 50,550</p>
+<p> ●	IN TOTAL: ------------------------------------------------------> $ 50,550</p>
 
 ## Appendix:
-<p>•	aim misalignment with Deanna on shorter wait times for guests   </p>
+<p>•	Aim misalignment with Deanna on shorter wait times for guests   </p>
 <p>•	Proposal out of scope regarding the inclusion of return policies in the launch </p>
 <p>•	Proposal out of scope regarding enhancing kitchen staff satisfaction   </p>
 <p>•  Lack of a clear aim for Installing tablet bundles with discounts and menu add-ons</p>
